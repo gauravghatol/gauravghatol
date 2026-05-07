@@ -14,21 +14,33 @@
 ---
 
 ### 🏆 Professional Experience
-- **Software Developer Intern | Indian Railways** (Jul 2025 - Aug 2025)
-  - Built **Loco-Info** for 50+ locomotives & 400+ staff.
-  - Optimized rolling logs to maintain the **100 most recent activities**.
-- **Web Developer Intern | CREA** (Aug 2025 - Jan 2026)
-  - Developed a portal for **500+ railway engineers** to replace manual Google Forms.
-  - Built a **modular REST API architecture** for member management.
+
+#### **Software Developer Intern | Indian Railways** (Jul 2025 - Aug 2025)
+* Built **Loco-Info**, a digital maintenance tracking solution for 50+ locomotives and 400+ staff.
+* Developed as a cross-platform **Android and Desktop application**.
+* Engineered a resource-optimized rolling log to maintain the **100 most recent system activities**.
+
+#### **Web Developer Intern | Central Railway Engineers Association (CREA)** (Aug 2025 - Jan 2026)
+* **Live Site:** [crea.org.in](https://crea.org.in)
+* Developed a centralized web portal to replace manual workflows for **500+ railway engineers**.
+* Built a **modular REST API architecture** for scalable member management and secure document handling.
 
 ---
 
 ### 💼 Key Projects
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **Restaurant Management** | 4-role RBAC (Admin, Chef, Waiter, Customer). | MERN |
-| **Loco Monitoring** | Real-time tracking for railway operations. | Android/Desktop |
-| **Vihang Drone Club** | Official college club website (SSGMCE). | HTML/CSS/JS |
+
+#### 🍽 **Restaurant Management System**
+* **Full-Stack Feature:** Managed table reservations, food ordering, and automated billing.
+* **Security:** Implemented **4-role RBAC** (Admin, Customer, Waiter, and Chef).
+* **Database:** Designed MongoDB schemas for real-time order processing and reservation tracking.
+
+#### 🚆 **Loco Monitoring System**
+* **Digital Transformation:** Replaced paper-based tracking for locomotive maintenance in major railway sheds.
+* **Real-time Sync:** Engineered data flow to synchronize updates across all operational systems.
+
+#### 🌐 **Vihang Drone Club Website**
+* **Official Portal:** Launched for the SSGMCE Drone Club to showcase events and announcements.
+* **Engagement:** Integrated image galleries, contact forms, and real-time event updates.
 
 ---
 
@@ -39,11 +51,9 @@
 
 ---
 
-### 📊 My GitHub Stats
+### 📈 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gauravghatol&show_icons=true&theme=radical" alt="Gaurav's Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravghatol&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravghatol&theme=react-dark" alt="Gaurav's Activity Graph" />
 </p>
 
 ---
