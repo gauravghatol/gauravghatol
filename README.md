@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Gaurav Ghatol
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=41B883&width=435&lines=Full-Stack+Developer;MERN+Stack+Enthusiast;Building+Scalable+Solutions;ISTE+Chairperson" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=41B883&width=435&lines=Full-Stack+Developer;Building+Scalable+Solutions" alt="Typing SVG" />
   </a>
 </p>
 
