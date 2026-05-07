@@ -1,41 +1,93 @@
-# Hi there 👋, I'm Gaurav Ghatol
+# Hi, I'm Gaurav Ghatol 👋
 
-### 👨‍💻 Full-Stack Developer 
-
-I am a Full-Stack Developer with practical experience in creating scalable web applications using React, Node.js, Express, and MongoDB. I enjoy building user-centric software solutions that solve real-world problems.
-
-- 🛠️ Currently working on **Scalable Web Architectures** and **REST APIs**.
-- 🚀 Interned at **Electric Loco Shed, Bhusawal** and **CREA**.
-- 📬 How to reach me: **gauravghatol49@gmail.com**
-- ⚡ Fun fact: I lead a national-level student committee at ISTE.
+💻 Full-Stack Developer (React | Node.js | MongoDB)
+📍 Focused on building real-world scalable web applications
 
 ---
 
-### 🧰 Languages and Tools
+## 🚀 What I Do
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+* Build full-stack applications with **React, Node.js, Express, MongoDB**
+* Design **REST APIs** and backend systems
+* Work on **real-time data systems & role-based access control**
+* Focus on **clean UI + scalable backend**
 
 ---
 
-### 📊 GitHub Analytics
+## 🏆 Experience
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gauravghatol&show_icons=true&theme=tokyonight&count_private=true" alt="Gaurav's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravghatol&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
+### 🔹 Software Developer Intern – Indian Railways
+
+* Built **Loco-Info system** for 50+ locomotives & 400+ staff
+* Implemented **real-time maintenance tracking system**
+* Designed **RBAC system (Admin/Viewer)**
+* Optimized logs to maintain **last 100 activities efficiently**
 
 ---
 
-### 🔗 Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/gauravghatol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gauravghatol" height="30" width="40" /></a>
-</p>
+### 🔹 Web Developer Intern – CREA
+
+* Developed portal for **500+ railway engineers**
+* Replaced manual workflows (Google Forms → Web App)
+* Built scalable **REST API architecture**
+* Implemented **secure document sharing system**
+
+---
+
+## 💼 Projects
+
+### 🍽 Restaurant Management System
+
+* Full-stack web app (React + Node + MongoDB)
+* Features: Orders, Reservations, Billing
+* Implemented **4-role RBAC (Admin, Chef, Waiter, Customer)**
+* Built real-time order APIs
+
+👉 [View Project](#)
+
+---
+
+### 🚆 Loco Monitoring System
+
+* Real-time locomotive maintenance tracking
+* Built for railway operations
+* Handles large-scale data flow
+
+👉 [View Project](#)
+
+---
+
+### 🌐 Vihang Drone Club Website
+
+* Developed official college club website
+* Features: Events, gallery, announcements
+
+👉 [View Project](#)
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend:** React, HTML, CSS
+**Backend:** Node.js, Express
+**Database:** MongoDB, MySQL
+**Languages:** JavaScript, Python, Java, C
+
+---
+
+## 📫 Contact
+
+📧 [gauravghatol49@gmail.com](mailto:gauravghatol49@gmail.com)
+🔗 LinkedIn: https://linkedin.com/in/gauravghatol
+
+---
+
+## ⚡ Focus
+
+Currently improving:
+
+* System design
+* Backend scalability
+* Real-world problem solving
+
+---
