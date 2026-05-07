@@ -6,29 +6,29 @@
 </p>
 
 ### 🚀 What I Do
-- [cite_start]💻 **Build full-stack applications** with React, Node.js, Express, and MongoDB[cite: 3, 7].
-- [cite_start]⚙️ **Design REST APIs** and backend systems for real-world efficiency[cite: 4, 23].
-- [cite_start]🔐 **Real-time data systems** & role-based access control (RBAC)[cite: 16, 29].
-- [cite_start]🎨 **Focus on clean UI** + scalable architecture[cite: 4, 9].
+- 💻 **Build full-stack applications** with React, Node.js, Express, and MongoDB.
+- ⚙️ **Design REST APIs** and backend systems for real-world efficiency.
+- 🔐 **Real-time data systems** & role-based access control (RBAC).
+- 🎨 **Focus on clean UI** + scalable architecture.
 
 ---
 
 ### 🏆 Professional Experience
-- **Software Developer Intern | [cite_start]Indian Railways** (Jul 2025 - Aug 2025) [cite: 12, 13, 14]
-  - [cite_start]Built **Loco-Info** for 50+ locomotives & 400+ staff.
-  - [cite_start]Optimized rolling logs to maintain the **100 most recent activities**[cite: 17].
-- **Web Developer Intern | [cite_start]CREA** (Aug 2025 - Jan 2026) [cite: 19, 20, 21]
-  - [cite_start]Developed a portal for **500+ railway engineers** to replace manual Google Forms[cite: 22].
-  - [cite_start]Built a **modular REST API architecture** for member management[cite: 23].
+- **Software Developer Intern | Indian Railways** (Jul 2025 - Aug 2025)
+  - Built **Loco-Info** for 50+ locomotives & 400+ staff.
+  - Optimized rolling logs to maintain the **100 most recent activities**.
+- **Web Developer Intern | CREA** (Aug 2025 - Jan 2026)
+  - Developed a portal for **500+ railway engineers** to replace manual Google Forms.
+  - Built a **modular REST API architecture** for member management.
 
 ---
 
 ### 💼 Key Projects
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **Restaurant Management** | [cite_start]4-role RBAC (Admin, Chef, Waiter, Customer)[cite: 29]. | [cite_start]MERN [cite: 28] |
-| **Loco Monitoring** | [cite_start]Real-time tracking for railway operations[cite: 18]. | Android/Desktop |
-| **Vihang Drone Club** | [cite_start]Official college club website (SSGMCE)[cite: 32]. | [cite_start]HTML/CSS/JS [cite: 34] |
+| **Restaurant Management** | 4-role RBAC (Admin, Chef, Waiter, Customer). | MERN |
+| **Loco Monitoring** | Real-time tracking for railway operations. | Android/Desktop |
+| **Vihang Drone Club** | Official college club website (SSGMCE). | HTML/CSS/JS |
 
 ---
 
